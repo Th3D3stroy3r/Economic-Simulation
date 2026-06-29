@@ -1,0 +1,5 @@
+2026-04-08 22:11:03,517 - __main__ - INFO - Initializing World Economy Backend
+2026-04-08 22:11:03,682 - __main__ - ERROR - Failed to connect to database: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2026-04-09 11:38:00,325 - backend - ERROR - Failed to connect to database: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
